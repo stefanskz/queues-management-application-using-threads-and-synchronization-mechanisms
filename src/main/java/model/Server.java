@@ -14,15 +14,35 @@ public class Server implements Runnable {
     }
 
     public void addTask(Task newTask) {
-        tasks.add(newTask);
-        this.setWaitingPeriod(this.getWaitingPeriod() + newTask.getServiceTime());
+        synchronized (waitingPeriod) {
+            try {
+                tasks.put(newTask);
+                this.setWaitingPeriod(this.getWaitingPeriod() + newTask.getServiceTime());
+            } catch (InterruptedException ex) {
+                ex.printStackTrace();
+            }
+        }
     }
 
     public void run() {
         while (true) {
-            //take next task from queue
-            //stop the thread for a time equal with the task's service time
-            //decrement the waitingPeriod
+            try {
+                Task client = tasks.peek();
+                if (client != null) {
+                    Thread.sleep(1000);
+                    tasks.peek().setServiceTime(client.getServiceTime() - 1);
+                    synchronized (waitingPeriod) {
+                        this.setWaitingPeriod(this.getWaitingPeriod() - 1);
+                    }
+                    if (tasks.peek().getServiceTime() <= 0) {
+                        tasks.poll();
+                    }
+                } else {
+                    Thread.sleep(1000);
+                }
+            } catch (InterruptedException exception) {
+                exception.printStackTrace();
+            }
         }
     }
 
