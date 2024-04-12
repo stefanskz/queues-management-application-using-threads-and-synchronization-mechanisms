@@ -2,7 +2,8 @@ import Logic.SimulationManager;
 
 public class Main {
     public static void main(String[] args) {
-        SimulationManager manager = new SimulationManager(100, 2, 10, 3, 20, 3, 5);
-        System.out.println(manager.toString());
+        SimulationManager gen = new SimulationManager(30, 2, 15, 2, 6, 2, 4);
+        Thread t = new Thread(gen);
+        t.start();
     }
 }

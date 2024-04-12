@@ -2,10 +2,7 @@ package Logic;
 
 import model.Task;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class SimulationManager implements Runnable {
 
@@ -17,6 +14,7 @@ public class SimulationManager implements Runnable {
     private int numberOfServers;
     private int numberOfClients;
     private static int x;
+    private Scheduler scheduler;
 
     private List<Task> tasks;
 
@@ -29,6 +27,8 @@ public class SimulationManager implements Runnable {
         this.numberOfServers = numberOfServers;
         this.numberOfClients = numberOfClients;
         generateTasks();
+        this.scheduler = new Scheduler(numberOfServers);
+        this.scheduler.changeStrategy(true);
     }
 
     public void generateTasks() {
@@ -111,6 +111,32 @@ public class SimulationManager implements Runnable {
 
     @Override
     public void run() {
-
+        int currentTime = 0;
+        while (currentTime < timeLimit) {
+            Iterator<Task> taskIterator = tasks.iterator();
+            while (taskIterator.hasNext()) {
+                Task taskIndex = taskIterator.next();
+                if (taskIndex.getArrivalTime().equals(currentTime)) {
+                    scheduler.dispatchTask(taskIndex);
+                    taskIterator.remove();
+                }
+            }
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException exception) {
+                exception.printStackTrace();
+            }
+            System.out.println("Time: " + currentTime);
+            System.out.println("Waiting clients: " + tasks);
+            for (int index = 0; index < scheduler.getServers().size(); index++) {
+                System.out.println("Queue " + (index + 1) + ": ");
+                if (scheduler.getServers().get(index).getTasks().isEmpty())
+                    System.out.println("closed");
+                else
+                    System.out.println(scheduler.getServers().get(index).getTasks());
+            }
+            System.out.println("\n");
+            currentTime++;
+        }
     }
 }
