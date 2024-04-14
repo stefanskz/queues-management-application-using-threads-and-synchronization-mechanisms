@@ -57,4 +57,5 @@ public class Server implements Runnable {
     public void setWaitingPeriod(int waitingPeriod) {
         this.waitingPeriod.set(waitingPeriod);
     }
+
 }

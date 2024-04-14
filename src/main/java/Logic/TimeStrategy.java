@@ -16,4 +16,5 @@ public class TimeStrategy implements Strategy {
         }
         servers.get(servers.indexOf(minTimeServ)).addTask(task);
     }
+
 }

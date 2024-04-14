@@ -14,4 +14,5 @@ public class ShortestQueueStrategy implements Strategy {
         }
         servers.get(indexOfMin).addTask(task);
     }
+
 }
