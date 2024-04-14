@@ -67,4 +67,5 @@ public class ResultInterface extends JFrame {
         avgWaitingTime.setText(String.valueOf(avgWaiting));
         pack();
     }
+
 }

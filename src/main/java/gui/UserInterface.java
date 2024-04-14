@@ -8,7 +8,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class UserInterface extends JFrame implements ActionListener {
-
     private JTextField timeLimitText, nrOfServersText, nrOFTasksText, minArrivalText, maxArrivalText, minServiceText, maxServiceText;
     private JButton start;
 
@@ -74,5 +73,4 @@ public class UserInterface extends JFrame implements ActionListener {
     public static void main(String[] args) {
         new UserInterface();
     }
-
 }

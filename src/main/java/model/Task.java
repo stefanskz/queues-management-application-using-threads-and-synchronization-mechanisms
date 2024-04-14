@@ -49,4 +49,5 @@ public class Task implements Comparable<Task> {
     public int compareTo(Task o) {
         return this.arrivalTime.compareTo(o.arrivalTime);
     }
+
 }
