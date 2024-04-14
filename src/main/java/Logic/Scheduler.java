@@ -30,6 +30,17 @@ public class Scheduler {
         }
     }
 
+    public int nrOfTasksInQueues() {
+        int nr = 0;
+        for (Server index : servers) {
+            for (Task indexTask : index.getTasks()) {
+                if (indexTask.getServiceTime() != 0)
+                    nr++;
+            }
+        }
+        return nr;
+    }
+
     public List<Server> getServers() {
         return servers;
     }
