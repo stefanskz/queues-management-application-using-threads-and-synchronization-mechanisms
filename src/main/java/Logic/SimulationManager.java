@@ -1,5 +1,6 @@
 package Logic;
 
+import gui.ResultInterface;
 import model.Task;
 
 import java.io.BufferedWriter;
@@ -14,6 +15,8 @@ public class SimulationManager implements Runnable {
     private int maxArrivalTime;
     private int minServiceTime;
     private int maxServiceTime;
+    private int totalSerTime;
+    private int totalWaiTime;
     private int numberOfServers;
     private int numberOfClients;
     private static int x;
@@ -21,6 +24,8 @@ public class SimulationManager implements Runnable {
     private List<Task> tasks;
     private int peekTime = 0;
     private int maxTask = 0;
+
+    ResultInterface resultInterface;
 
     public SimulationManager(int timeLimit, int minArrivalTime, int maxArrivalTime, int minServiceTime, int maxServiceTime, int numberOfServers, int numberOfClients) {
         this.timeLimit = timeLimit;
@@ -30,6 +35,8 @@ public class SimulationManager implements Runnable {
         this.maxServiceTime = maxServiceTime;
         this.numberOfServers = numberOfServers;
         this.numberOfClients = numberOfClients;
+        this.totalWaiTime = 0;
+        resultInterface = new ResultInterface(this.numberOfServers);
         generateTasks();
         this.scheduler = new Scheduler(numberOfServers);
         this.scheduler.changeStrategy(true);
@@ -43,6 +50,7 @@ public class SimulationManager implements Runnable {
             int randomNr1 = random1.nextInt(maxArrivalTime - minArrivalTime + 1) + minArrivalTime;
             Random random2 = new Random();
             int randomNr2 = random2.nextInt(maxServiceTime - minServiceTime + 1) + minServiceTime;
+            totalSerTime += randomNr2;
             Task index = new Task(x, randomNr1, randomNr2);
             tasks.add(index);
             x++;
@@ -60,8 +68,8 @@ public class SimulationManager implements Runnable {
     @Override
     public void run() {
         try {
-            BufferedWriter sout = new BufferedWriter(new FileWriter("file.txt"));
             int currentTime = 0;
+            BufferedWriter sout = new BufferedWriter(new FileWriter("file.txt"));
             while (currentTime < timeLimit) {
                 Iterator<Task> taskIterator = tasks.iterator();
                 while (taskIterator.hasNext()) {
@@ -77,9 +85,15 @@ public class SimulationManager implements Runnable {
                     exception.printStackTrace();
                 }
                 print(sout, currentTime);
+                resultInterface.update(currentTime, tasks, scheduler.getServers());
                 currentTime++;
             }
+            resultInterface.finalUpdate((double) totalWaiTime / numberOfClients, (double) totalSerTime / numberOfClients, peekTime);
             sout.write("Peak hour: " + peekTime + ", with " + maxTask + " tasks in all queues!");
+            sout.newLine();
+            sout.write("Avg. Service Time: " + ((double) totalSerTime / numberOfClients) + ".");
+            sout.newLine();
+            sout.write("Avg. Waiting Time: " + ((double) totalWaiTime / numberOfClients) + ".");
             sout.close();
             System.out.println("Stop!");
         } catch (IOException exception) {
@@ -104,6 +118,7 @@ public class SimulationManager implements Runnable {
                 sout.newLine();
             }
         }
+        totalWaiTime += size;
         if (size > maxTask) {
             maxTask = size;
             peekTime = currentTime;
