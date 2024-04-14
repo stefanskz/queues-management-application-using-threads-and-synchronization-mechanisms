@@ -10,12 +10,14 @@ import java.awt.event.ActionListener;
 public class UserInterface extends JFrame implements ActionListener {
     private JTextField timeLimitText, nrOfServersText, nrOFTasksText, minArrivalText, maxArrivalText, minServiceText, maxServiceText;
     private JButton start;
+    String[] options = {"Shortest Time", "Shortest Queue"};
+    private JComboBox<String> op;
 
     public UserInterface() {
         setTitle("Simulation");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         JPanel jPanel = new JPanel();
-        jPanel.setLayout(new GridLayout(8, 2));
+        jPanel.setLayout(new GridLayout(9, 2));
 
         jPanel.add(new JLabel("Nr. Of Clients: "));
         nrOFTasksText = new JTextField();
@@ -45,6 +47,10 @@ public class UserInterface extends JFrame implements ActionListener {
         maxServiceText = new JTextField();
         jPanel.add(maxServiceText);
 
+        jPanel.add(new JLabel("Strategy: "));
+        op = new JComboBox<>(options);
+        jPanel.add(op);
+
         start = new JButton("Start Simulation!");
         start.addActionListener(this);
         jPanel.add(start);
@@ -64,7 +70,10 @@ public class UserInterface extends JFrame implements ActionListener {
         int nrOfServers = Integer.parseInt(nrOfServersText.getText());
         int nrOfTasks = Integer.parseInt(nrOFTasksText.getText());
 
-        SimulationManager gen = new SimulationManager(timeLimit, minArrivalTime, maxArrivalTime, minServiceTime, maxServiceTime, nrOfServers, nrOfTasks);
+        boolean flagOp = false;
+        if (((String) op.getSelectedItem()).equals("Shortest Time"))
+            flagOp = true;
+        SimulationManager gen = new SimulationManager(timeLimit, minArrivalTime, maxArrivalTime, minServiceTime, maxServiceTime, nrOfServers, nrOfTasks, flagOp);
         Thread t = new Thread(gen);
         t.start();
 

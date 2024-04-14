@@ -27,7 +27,7 @@ public class SimulationManager implements Runnable {
 
     ResultInterface resultInterface;
 
-    public SimulationManager(int timeLimit, int minArrivalTime, int maxArrivalTime, int minServiceTime, int maxServiceTime, int numberOfServers, int numberOfClients) {
+    public SimulationManager(int timeLimit, int minArrivalTime, int maxArrivalTime, int minServiceTime, int maxServiceTime, int numberOfServers, int numberOfClients, boolean flag) {
         this.timeLimit = timeLimit;
         this.minArrivalTime = minArrivalTime;
         this.maxArrivalTime = maxArrivalTime;
@@ -39,7 +39,7 @@ public class SimulationManager implements Runnable {
         resultInterface = new ResultInterface(this.numberOfServers);
         generateTasks();
         this.scheduler = new Scheduler(numberOfServers);
-        this.scheduler.changeStrategy(true);
+        this.scheduler.changeStrategy(flag);
     }
 
     public void generateTasks() {
