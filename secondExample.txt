@@ -1,0 +1,483 @@
+Time: 0
+Waiting clients: [Task{id=13, arrivalTime=2, serviceTime=3}, Task{id=26, arrivalTime=2, serviceTime=2}, Task{id=16, arrivalTime=3, serviceTime=2}, Task{id=29, arrivalTime=3, serviceTime=1}, Task{id=35, arrivalTime=5, serviceTime=5}, Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 1
+Waiting clients: [Task{id=13, arrivalTime=2, serviceTime=3}, Task{id=26, arrivalTime=2, serviceTime=2}, Task{id=16, arrivalTime=3, serviceTime=2}, Task{id=29, arrivalTime=3, serviceTime=1}, Task{id=35, arrivalTime=5, serviceTime=5}, Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 2
+Waiting clients: [Task{id=16, arrivalTime=3, serviceTime=2}, Task{id=29, arrivalTime=3, serviceTime=1}, Task{id=35, arrivalTime=5, serviceTime=5}, Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=13, arrivalTime=2, serviceTime=3}], waitingPeriod: 3.
+Queue 2: [Task{id=26, arrivalTime=2, serviceTime=2}], waitingPeriod: 2.
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 3
+Waiting clients: [Task{id=35, arrivalTime=5, serviceTime=5}, Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=13, arrivalTime=2, serviceTime=2}], waitingPeriod: 2.
+Queue 2: [Task{id=26, arrivalTime=2, serviceTime=1}], waitingPeriod: 1.
+Queue 3: [Task{id=16, arrivalTime=3, serviceTime=2}], waitingPeriod: 2.
+Queue 4: [Task{id=29, arrivalTime=3, serviceTime=1}], waitingPeriod: 1.
+Queue 5: closed
+
+Time: 4
+Waiting clients: [Task{id=35, arrivalTime=5, serviceTime=5}, Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=13, arrivalTime=2, serviceTime=1}], waitingPeriod: 1.
+Queue 2: closed
+Queue 3: [Task{id=16, arrivalTime=3, serviceTime=1}], waitingPeriod: 1.
+Queue 4: closed
+Queue 5: closed
+
+Time: 5
+Waiting clients: [Task{id=6, arrivalTime=6, serviceTime=1}, Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: [Task{id=35, arrivalTime=5, serviceTime=5}], waitingPeriod: 5.
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 6
+Waiting clients: [Task{id=5, arrivalTime=7, serviceTime=1}, Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=6, arrivalTime=6, serviceTime=1}], waitingPeriod: 1.
+Queue 2: [Task{id=35, arrivalTime=5, serviceTime=4}], waitingPeriod: 4.
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 7
+Waiting clients: [Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: [Task{id=35, arrivalTime=5, serviceTime=3}], waitingPeriod: 3.
+Queue 3: [Task{id=5, arrivalTime=7, serviceTime=1}], waitingPeriod: 1.
+Queue 4: closed
+Queue 5: closed
+
+Time: 8
+Waiting clients: [Task{id=37, arrivalTime=9, serviceTime=1}, Task{id=39, arrivalTime=9, serviceTime=1}, Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: [Task{id=35, arrivalTime=5, serviceTime=2}], waitingPeriod: 2.
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 9
+Waiting clients: [Task{id=47, arrivalTime=10, serviceTime=6}, Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=37, arrivalTime=9, serviceTime=1}], waitingPeriod: 1.
+Queue 2: [Task{id=35, arrivalTime=5, serviceTime=1}], waitingPeriod: 1.
+Queue 3: [Task{id=39, arrivalTime=9, serviceTime=1}], waitingPeriod: 1.
+Queue 4: closed
+Queue 5: closed
+
+Time: 10
+Waiting clients: [Task{id=3, arrivalTime=11, serviceTime=7}, Task{id=45, arrivalTime=11, serviceTime=4}, Task{id=50, arrivalTime=11, serviceTime=3}, Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=6}], waitingPeriod: 6.
+Queue 5: closed
+
+Time: 11
+Waiting clients: [Task{id=23, arrivalTime=12, serviceTime=7}, Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=7}], waitingPeriod: 7.
+Queue 2: [Task{id=45, arrivalTime=11, serviceTime=4}], waitingPeriod: 4.
+Queue 3: [Task{id=50, arrivalTime=11, serviceTime=3}], waitingPeriod: 3.
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=5}], waitingPeriod: 5.
+Queue 5: closed
+
+Time: 12
+Waiting clients: [Task{id=4, arrivalTime=13, serviceTime=1}, Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=6}], waitingPeriod: 6.
+Queue 2: [Task{id=45, arrivalTime=11, serviceTime=3}], waitingPeriod: 3.
+Queue 3: [Task{id=50, arrivalTime=11, serviceTime=2}], waitingPeriod: 2.
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=4}], waitingPeriod: 4.
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=7}], waitingPeriod: 7.
+
+Time: 13
+Waiting clients: [Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=5}], waitingPeriod: 5.
+Queue 2: [Task{id=45, arrivalTime=11, serviceTime=2}], waitingPeriod: 2.
+Queue 3: [Task{id=50, arrivalTime=11, serviceTime=1}, Task{id=4, arrivalTime=13, serviceTime=1}], waitingPeriod: 2.
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=3}], waitingPeriod: 3.
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=6}], waitingPeriod: 6.
+
+Time: 14
+Waiting clients: [Task{id=12, arrivalTime=15, serviceTime=5}, Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=4}], waitingPeriod: 4.
+Queue 2: [Task{id=45, arrivalTime=11, serviceTime=1}], waitingPeriod: 1.
+Queue 3: [Task{id=4, arrivalTime=13, serviceTime=1}], waitingPeriod: 1.
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=2}], waitingPeriod: 2.
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=5}], waitingPeriod: 5.
+
+Time: 15
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=3}], waitingPeriod: 3.
+Queue 2: [Task{id=12, arrivalTime=15, serviceTime=5}], waitingPeriod: 5.
+Queue 3: closed
+Queue 4: [Task{id=47, arrivalTime=10, serviceTime=1}], waitingPeriod: 1.
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=4}], waitingPeriod: 4.
+
+Time: 16
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=2}], waitingPeriod: 2.
+Queue 2: [Task{id=12, arrivalTime=15, serviceTime=4}], waitingPeriod: 4.
+Queue 3: closed
+Queue 4: closed
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=3}], waitingPeriod: 3.
+
+Time: 17
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=3, arrivalTime=11, serviceTime=1}], waitingPeriod: 1.
+Queue 2: [Task{id=12, arrivalTime=15, serviceTime=3}], waitingPeriod: 3.
+Queue 3: closed
+Queue 4: closed
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=2}], waitingPeriod: 2.
+
+Time: 18
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: [Task{id=12, arrivalTime=15, serviceTime=2}], waitingPeriod: 2.
+Queue 3: closed
+Queue 4: closed
+Queue 5: [Task{id=23, arrivalTime=12, serviceTime=1}], waitingPeriod: 1.
+
+Time: 19
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: [Task{id=12, arrivalTime=15, serviceTime=1}], waitingPeriod: 1.
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 20
+Waiting clients: [Task{id=21, arrivalTime=21, serviceTime=7}, Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 21
+Waiting clients: [Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=7}], waitingPeriod: 7.
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 22
+Waiting clients: [Task{id=7, arrivalTime=23, serviceTime=7}, Task{id=14, arrivalTime=23, serviceTime=2}, Task{id=25, arrivalTime=23, serviceTime=1}, Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=6}], waitingPeriod: 6.
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 23
+Waiting clients: [Task{id=9, arrivalTime=24, serviceTime=7}, Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=5}], waitingPeriod: 5.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=7}], waitingPeriod: 7.
+Queue 3: [Task{id=14, arrivalTime=23, serviceTime=2}], waitingPeriod: 2.
+Queue 4: [Task{id=25, arrivalTime=23, serviceTime=1}], waitingPeriod: 1.
+Queue 5: closed
+
+Time: 24
+Waiting clients: [Task{id=46, arrivalTime=25, serviceTime=6}, Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=4}], waitingPeriod: 4.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=6}], waitingPeriod: 6.
+Queue 3: [Task{id=14, arrivalTime=23, serviceTime=1}], waitingPeriod: 1.
+Queue 4: closed
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=7}], waitingPeriod: 7.
+
+Time: 25
+Waiting clients: [Task{id=36, arrivalTime=26, serviceTime=3}, Task{id=44, arrivalTime=26, serviceTime=5}, Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=3}], waitingPeriod: 3.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=5}], waitingPeriod: 5.
+Queue 3: closed
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=6}], waitingPeriod: 6.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=6}], waitingPeriod: 6.
+
+Time: 26
+Waiting clients: [Task{id=28, arrivalTime=27, serviceTime=6}, Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=2}, Task{id=44, arrivalTime=26, serviceTime=5}], waitingPeriod: 7.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=4}], waitingPeriod: 4.
+Queue 3: [Task{id=36, arrivalTime=26, serviceTime=3}], waitingPeriod: 3.
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=5}], waitingPeriod: 5.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=5}], waitingPeriod: 5.
+
+Time: 27
+Waiting clients: [Task{id=11, arrivalTime=28, serviceTime=6}, Task{id=30, arrivalTime=28, serviceTime=6}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=21, arrivalTime=21, serviceTime=1}, Task{id=44, arrivalTime=26, serviceTime=5}], waitingPeriod: 6.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=3}, Task{id=34, arrivalTime=27, serviceTime=2}], waitingPeriod: 5.
+Queue 3: [Task{id=36, arrivalTime=26, serviceTime=2}, Task{id=28, arrivalTime=27, serviceTime=6}], waitingPeriod: 8.
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=4}], waitingPeriod: 4.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=4}], waitingPeriod: 4.
+
+Time: 28
+Waiting clients: [Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=44, arrivalTime=26, serviceTime=5}], waitingPeriod: 5.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=2}, Task{id=34, arrivalTime=27, serviceTime=2}], waitingPeriod: 4.
+Queue 3: [Task{id=36, arrivalTime=26, serviceTime=1}, Task{id=28, arrivalTime=27, serviceTime=6}], waitingPeriod: 7.
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=3}, Task{id=11, arrivalTime=28, serviceTime=6}], waitingPeriod: 9.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=3}, Task{id=30, arrivalTime=28, serviceTime=6}], waitingPeriod: 9.
+
+Time: 29
+Waiting clients: [Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=44, arrivalTime=26, serviceTime=4}], waitingPeriod: 4.
+Queue 2: [Task{id=7, arrivalTime=23, serviceTime=1}, Task{id=34, arrivalTime=27, serviceTime=2}], waitingPeriod: 3.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=6}], waitingPeriod: 6.
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=2}, Task{id=11, arrivalTime=28, serviceTime=6}], waitingPeriod: 8.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=2}, Task{id=30, arrivalTime=28, serviceTime=6}], waitingPeriod: 8.
+
+Time: 30
+Waiting clients: [Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=44, arrivalTime=26, serviceTime=3}, Task{id=40, arrivalTime=30, serviceTime=7}], waitingPeriod: 10.
+Queue 2: [Task{id=34, arrivalTime=27, serviceTime=2}, Task{id=22, arrivalTime=30, serviceTime=2}], waitingPeriod: 4.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=5}], waitingPeriod: 5.
+Queue 4: [Task{id=46, arrivalTime=25, serviceTime=1}, Task{id=11, arrivalTime=28, serviceTime=6}], waitingPeriod: 7.
+Queue 5: [Task{id=9, arrivalTime=24, serviceTime=1}, Task{id=30, arrivalTime=28, serviceTime=6}], waitingPeriod: 7.
+
+Time: 31
+Waiting clients: [Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=44, arrivalTime=26, serviceTime=2}, Task{id=40, arrivalTime=30, serviceTime=7}], waitingPeriod: 9.
+Queue 2: [Task{id=34, arrivalTime=27, serviceTime=1}, Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=43, arrivalTime=31, serviceTime=1}], waitingPeriod: 4.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=4}], waitingPeriod: 4.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=6}], waitingPeriod: 6.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=6}], waitingPeriod: 6.
+
+Time: 32
+Waiting clients: [Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=44, arrivalTime=26, serviceTime=1}, Task{id=40, arrivalTime=30, serviceTime=7}], waitingPeriod: 8.
+Queue 2: [Task{id=22, arrivalTime=30, serviceTime=2}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}], waitingPeriod: 8.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=3}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}], waitingPeriod: 11.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=5}, Task{id=38, arrivalTime=32, serviceTime=3}], waitingPeriod: 8.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=5}], waitingPeriod: 5.
+
+Time: 33
+Waiting clients: [Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=7}], waitingPeriod: 7.
+Queue 2: [Task{id=22, arrivalTime=30, serviceTime=1}, Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}], waitingPeriod: 7.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=2}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}], waitingPeriod: 10.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=4}, Task{id=38, arrivalTime=32, serviceTime=3}], waitingPeriod: 7.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=4}, Task{id=27, arrivalTime=33, serviceTime=6}], waitingPeriod: 10.
+
+Time: 34
+Waiting clients: [Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=6}, Task{id=33, arrivalTime=34, serviceTime=5}], waitingPeriod: 11.
+Queue 2: [Task{id=43, arrivalTime=31, serviceTime=1}, Task{id=15, arrivalTime=32, serviceTime=5}], waitingPeriod: 6.
+Queue 3: [Task{id=28, arrivalTime=27, serviceTime=1}, Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}], waitingPeriod: 9.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=3}, Task{id=38, arrivalTime=32, serviceTime=3}], waitingPeriod: 6.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=3}, Task{id=27, arrivalTime=33, serviceTime=6}], waitingPeriod: 9.
+
+Time: 35
+Waiting clients: [Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=5}, Task{id=33, arrivalTime=34, serviceTime=5}], waitingPeriod: 10.
+Queue 2: [Task{id=15, arrivalTime=32, serviceTime=5}, Task{id=31, arrivalTime=35, serviceTime=6}], waitingPeriod: 11.
+Queue 3: [Task{id=19, arrivalTime=32, serviceTime=1}, Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}], waitingPeriod: 13.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=2}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=42, arrivalTime=35, serviceTime=7}], waitingPeriod: 12.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=2}, Task{id=27, arrivalTime=33, serviceTime=6}], waitingPeriod: 8.
+
+Time: 36
+Waiting clients: [Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=4}, Task{id=33, arrivalTime=34, serviceTime=5}], waitingPeriod: 9.
+Queue 2: [Task{id=15, arrivalTime=32, serviceTime=4}, Task{id=31, arrivalTime=35, serviceTime=6}], waitingPeriod: 10.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=7}, Task{id=48, arrivalTime=35, serviceTime=5}], waitingPeriod: 12.
+Queue 4: [Task{id=11, arrivalTime=28, serviceTime=1}, Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=42, arrivalTime=35, serviceTime=7}], waitingPeriod: 11.
+Queue 5: [Task{id=30, arrivalTime=28, serviceTime=1}, Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=2, arrivalTime=36, serviceTime=4}], waitingPeriod: 11.
+
+Time: 37
+Waiting clients: [Task{id=8, arrivalTime=38, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=3}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}], waitingPeriod: 12.
+Queue 2: [Task{id=15, arrivalTime=32, serviceTime=3}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=49, arrivalTime=37, serviceTime=4}], waitingPeriod: 13.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=6}, Task{id=48, arrivalTime=35, serviceTime=5}], waitingPeriod: 11.
+Queue 4: [Task{id=38, arrivalTime=32, serviceTime=3}, Task{id=42, arrivalTime=35, serviceTime=7}], waitingPeriod: 10.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=6}, Task{id=2, arrivalTime=36, serviceTime=4}], waitingPeriod: 10.
+
+Time: 38
+Waiting clients: [Task{id=10, arrivalTime=39, serviceTime=7}, Task{id=20, arrivalTime=39, serviceTime=7}, Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=2}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}], waitingPeriod: 11.
+Queue 2: [Task{id=15, arrivalTime=32, serviceTime=2}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=49, arrivalTime=37, serviceTime=4}], waitingPeriod: 12.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=5}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}], waitingPeriod: 11.
+Queue 4: [Task{id=38, arrivalTime=32, serviceTime=2}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 13.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=5}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 12.
+
+Time: 39
+Waiting clients: [Task{id=24, arrivalTime=40, serviceTime=6}]
+Queue 1: [Task{id=40, arrivalTime=30, serviceTime=1}, Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 17.
+Queue 2: [Task{id=15, arrivalTime=32, serviceTime=1}, Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=49, arrivalTime=37, serviceTime=4}], waitingPeriod: 11.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=4}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 17.
+Queue 4: [Task{id=38, arrivalTime=32, serviceTime=1}, Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 12.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=4}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 11.
+
+Time: 40
+Waiting clients: []
+Queue 1: [Task{id=33, arrivalTime=34, serviceTime=5}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 16.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=6}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 16.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=3}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 16.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=7}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 11.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=3}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 10.
+
+Time: 41
+Waiting clients: []
+Queue 1: [Task{id=33, arrivalTime=34, serviceTime=4}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 15.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=5}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 15.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=2}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 15.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=6}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 10.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=2}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 9.
+
+Time: 42
+Waiting clients: []
+Queue 1: [Task{id=33, arrivalTime=34, serviceTime=3}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 14.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=4}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 14.
+Queue 3: [Task{id=32, arrivalTime=32, serviceTime=1}, Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 14.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=5}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 9.
+Queue 5: [Task{id=27, arrivalTime=33, serviceTime=1}, Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 8.
+
+Time: 43
+Waiting clients: []
+Queue 1: [Task{id=33, arrivalTime=34, serviceTime=2}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 13.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=3}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 13.
+Queue 3: [Task{id=48, arrivalTime=35, serviceTime=5}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 13.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=4}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 8.
+Queue 5: [Task{id=2, arrivalTime=36, serviceTime=4}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 7.
+
+Time: 44
+Waiting clients: []
+Queue 1: [Task{id=33, arrivalTime=34, serviceTime=1}, Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 12.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=2}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 12.
+Queue 3: [Task{id=48, arrivalTime=35, serviceTime=4}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 12.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=3}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 7.
+Queue 5: [Task{id=2, arrivalTime=36, serviceTime=3}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 6.
+
+Time: 45
+Waiting clients: []
+Queue 1: [Task{id=1, arrivalTime=37, serviceTime=1}, Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 11.
+Queue 2: [Task{id=31, arrivalTime=35, serviceTime=1}, Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 11.
+Queue 3: [Task{id=48, arrivalTime=35, serviceTime=3}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 11.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=2}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 6.
+Queue 5: [Task{id=2, arrivalTime=36, serviceTime=2}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 5.
+
+Time: 46
+Waiting clients: []
+Queue 1: [Task{id=18, arrivalTime=37, serviceTime=3}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 10.
+Queue 2: [Task{id=49, arrivalTime=37, serviceTime=4}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 10.
+Queue 3: [Task{id=48, arrivalTime=35, serviceTime=2}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 10.
+Queue 4: [Task{id=42, arrivalTime=35, serviceTime=1}, Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 5.
+Queue 5: [Task{id=2, arrivalTime=36, serviceTime=1}, Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 4.
+
+Time: 47
+Waiting clients: []
+Queue 1: [Task{id=18, arrivalTime=37, serviceTime=2}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 9.
+Queue 2: [Task{id=49, arrivalTime=37, serviceTime=3}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 9.
+Queue 3: [Task{id=48, arrivalTime=35, serviceTime=1}, Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 9.
+Queue 4: [Task{id=8, arrivalTime=38, serviceTime=4}], waitingPeriod: 4.
+Queue 5: [Task{id=17, arrivalTime=38, serviceTime=3}], waitingPeriod: 3.
+
+Time: 48
+Waiting clients: []
+Queue 1: [Task{id=18, arrivalTime=37, serviceTime=1}, Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 8.
+Queue 2: [Task{id=49, arrivalTime=37, serviceTime=2}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 8.
+Queue 3: [Task{id=41, arrivalTime=38, serviceTime=1}, Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 8.
+Queue 4: [Task{id=8, arrivalTime=38, serviceTime=3}], waitingPeriod: 3.
+Queue 5: [Task{id=17, arrivalTime=38, serviceTime=2}], waitingPeriod: 2.
+
+Time: 49
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=7}], waitingPeriod: 7.
+Queue 2: [Task{id=49, arrivalTime=37, serviceTime=1}, Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 7.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=7}], waitingPeriod: 7.
+Queue 4: [Task{id=8, arrivalTime=38, serviceTime=2}], waitingPeriod: 2.
+Queue 5: [Task{id=17, arrivalTime=38, serviceTime=1}], waitingPeriod: 1.
+
+Time: 50
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=6}], waitingPeriod: 6.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=6}], waitingPeriod: 6.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=6}], waitingPeriod: 6.
+Queue 4: [Task{id=8, arrivalTime=38, serviceTime=1}], waitingPeriod: 1.
+Queue 5: closed
+
+Time: 51
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=5}], waitingPeriod: 5.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=5}], waitingPeriod: 5.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=5}], waitingPeriod: 5.
+Queue 4: closed
+Queue 5: closed
+
+Time: 52
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=4}], waitingPeriod: 4.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=4}], waitingPeriod: 4.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=4}], waitingPeriod: 4.
+Queue 4: closed
+Queue 5: closed
+
+Time: 53
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=3}], waitingPeriod: 3.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=3}], waitingPeriod: 3.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=3}], waitingPeriod: 3.
+Queue 4: closed
+Queue 5: closed
+
+Time: 54
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=2}], waitingPeriod: 2.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=2}], waitingPeriod: 2.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=2}], waitingPeriod: 2.
+Queue 4: closed
+Queue 5: closed
+
+Time: 55
+Waiting clients: []
+Queue 1: [Task{id=10, arrivalTime=39, serviceTime=1}], waitingPeriod: 1.
+Queue 2: [Task{id=24, arrivalTime=40, serviceTime=1}], waitingPeriod: 1.
+Queue 3: [Task{id=20, arrivalTime=39, serviceTime=1}], waitingPeriod: 1.
+Queue 4: closed
+Queue 5: closed
+
+Time: 56
+Waiting clients: []
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 57
+Waiting clients: []
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 58
+Waiting clients: []
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Time: 59
+Waiting clients: []
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+Peak hour: 39, with 18 tasks in all queues!
+Avg. Service Time: 4.06.
+Avg. Waiting Time: 7.18.
