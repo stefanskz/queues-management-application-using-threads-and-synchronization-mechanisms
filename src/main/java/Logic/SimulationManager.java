@@ -85,7 +85,7 @@ public class SimulationManager implements Runnable {
                     exception.printStackTrace();
                 }
                 print(sout, currentTime);
-                resultInterface.update(currentTime, tasks, scheduler.getServers());
+                resultInterface.update(currentTime, tasks, scheduler.getServers(), numberOfClients);
                 currentTime++;
             }
             resultInterface.finalUpdate((double) totalWaiTime / numberOfClients, (double) totalSerTime / numberOfClients, peekTime);

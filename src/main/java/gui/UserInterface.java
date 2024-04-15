@@ -16,6 +16,7 @@ public class UserInterface extends JFrame implements ActionListener {
     public UserInterface() {
         setTitle("Simulation");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
         JPanel jPanel = new JPanel();
         jPanel.setLayout(new GridLayout(9, 2));
 
