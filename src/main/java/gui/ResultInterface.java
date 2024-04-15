@@ -23,12 +23,14 @@ public class ResultInterface extends JFrame {
 
         onePanel.add(new JLabel("Waiting clients: "));
         waitingTasks = new JTextField();
+        waitingTasks.setPreferredSize(new Dimension(475, 50));
         onePanel.add(waitingTasks);
 
         queues = new JTextField[nrServ];
         for (int i = 0; i < nrServ; i++) {
             onePanel.add(new JLabel("Queue " + (i + 1) + ": "));
             queues[i] = new JTextField();
+            queues[i].setPreferredSize(new Dimension(475, 50));
             onePanel.add(queues[i]);
         }
 
@@ -67,5 +69,4 @@ public class ResultInterface extends JFrame {
         avgWaitingTime.setText(String.valueOf(avgWaiting));
         pack();
     }
-
 }
